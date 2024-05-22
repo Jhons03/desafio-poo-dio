@@ -1,0 +1,1 @@
+Vamos criar um projeto com a finalidade de representar poo.
