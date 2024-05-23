@@ -11,7 +11,7 @@ public class Dev {
     public void inscreverBootcamp(Bootcamp bootcamp){
         //adicionei todos os conteudos do bootcamp
         this.conteudosInscritos.addAll(bootcamp.getConteudos());
-        //adicionei o deve no bootcamp
+        //adicionei o dev no bootcamp
         bootcamp.getDevs().add(this);
     }
     public void progredir(){
